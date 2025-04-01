@@ -15,3 +15,8 @@
 ![](./img/05.png)
 
 ![](./img/06.png)
+
+## Switching branch with the use of the 
+`git checkout <branch>`
+command
+![](./img/07.png)

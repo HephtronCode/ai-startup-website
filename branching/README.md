@@ -20,3 +20,7 @@
 `git checkout <branch>`
 command
 ![](./img/07.png)
+
+## Confirming merge request
+![](./img/08.png)
+

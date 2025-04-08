@@ -1,5 +1,8 @@
 # Branching and Merging Mini Project
 
+## HTML file
+![](./img/9.png)
+
 ## Switching to branch update-navigation
 ![](./img/01.png)
 
@@ -24,3 +27,17 @@ command
 ## Confirming merge request
 ![](./img/08.png)
 
+## Pulling the changes to main branch
+![](./img/11.png)
+
+## pushing the changes to remote repository
+![](./img/12.png)
+
+## Switching to the main branch
+![](./img/14.png)
+
+## Pulling the changes to the main branch
+![](./img/13.png)
+
+## Merging the changes to the main branch
+![](./img/15.png)
